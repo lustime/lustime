@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lustime&show_icons=true&theme=Gradient" width="450px">
 
 
-我的网站：[http://lustime.uenas.top:4000/](https://www.wdbyte.com/)
+我的网站：[http://lustime.uenas.top:4000/](http://lustime.uenas.top:4000/)
 
 公众号：爱璐璐真是太好了。
 
