@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lustime&show_icons=true&theme=Gradient" width="450px">
 <p align="auto"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/liangtengyu/count.svg" />
+  <img src="https://profile-counter.glitch.me/lustime/count.svg" />
 </p>
 
 我的网站：[lustime's Blog](http://lustime.uenas.top:4000/)
