@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/lustime/count.svg" />
 </p>
 
-我的网站：[lustime's Blog](https://blog.lustime.too/)
+我的网站：[lustime's Blog](https://blog.lustime.top/)
 
 公众号：爱璐璐真是太好了。
 
